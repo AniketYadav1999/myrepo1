@@ -5,6 +5,10 @@ i Am
 Aniket
 
 Good Morning Dev1
+<<<<<<< HEAD
 Iam Fine dev2
 
+=======
+How are you
+>>>>>>> 441d4c5a3d39c0673bcc9f6cecf1a8d8f557b2a9
 
